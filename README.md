@@ -10,8 +10,8 @@
   <br>
   
   <!-- Classe/nível -->
-  <img src="https://img.shields.io/badge/Classe-Desenvolvedor%20FullStack-F1E0AC?style=flat-square&logoColor=black&color=8B6F47&labelColor=5A4735" />
-  <img src="https://img.shields.io/badge/Nível-3%20-F1E0AC?style=flat-square&logoColor=black&color=8B6F47&labelColor=5A4735" />
+  <img src="https://img.shields.io/badge/Class-Dev%20FullStack-F1E0AC?style=flat-square&logoColor=black&color=8B6F47&labelColor=5A4735" />
+  <img src="https://img.shields.io/badge/Level-3%20-F1E0AC?style=flat-square&logoColor=black&color=8B6F47&labelColor=5A4735" />
   <!-- Texto de introdução - fonte uniformizada -->
   <p style="font-family:'Special Elite', cursive; font-size: 16px; color: #3D2B1F;">
     Hello there! My name is <strong style="color:#8B6F47;">Vinicius</strong> 🧑‍💻<br>
