@@ -3,7 +3,7 @@
 
   <!-- Título animado -->
   <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=26&duration=5000&pause=1000&width=435&lines=Vinicius+%22Fxdf%22+joined+the+party+!&center=true&vCenter=true&color=F1E0AC&background=00000000" 
+  src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=26&duration=5000&pause=1000&width=435&lines=Vinicius+%22Fxdf%22+joined+the+party&center=true&vCenter=true&color=F1E0AC&background=00000000" 
   alt="Typing SVG" 
 />
 
