@@ -10,15 +10,17 @@
   <br>
   
   <!-- Classe/nível -->
-  <img src="https://img.shields.io/badge/Class-Dev%20FullStack-F1E0AC?style=flat-square&logoColor=black&color=8B6F47&labelColor=5A4735" />
-  <img src="https://img.shields.io/badge/Level-3%20-F1E0AC?style=flat-square&logoColor=black&color=8B6F47&labelColor=5A4735" />
-  <!-- Texto de introdução - fonte uniformizada -->
+  <img src="https://img.shields.io/badge/Class-Software%20Engineering%20Apprentice-F1E0AC?style=flat-square&logoColor=black&color=8B6F47&labelColor=5A4735" />
+  <img src="https://img.shields.io/badge/Level-3%20%7C%20XP%20%F0%9F%92%AA%20Gaining-F1E0AC?style=flat-square&logoColor=black&color=8B6F47&labelColor=5A4735" />
+  
+  <!-- Texto de introdução -->
   <p style="font-family:'Special Elite', cursive; font-size: 16px; color: #3D2B1F;">
     Hello there! My name is <strong style="color:#8B6F47;">Vinicius</strong> 🧑‍💻<br>
     I'm a Software Engineering student at UniAmérica Descomplica.<br>
-    I focus on real-world utility, usability, and clean code organization.<br>
-    I'm into innovative ideas and out-of-the-box solutions 📦✨
+    Currently an intern at the IT Department of Palmital City Hall 🏛️.<br>
+    Exploring real-world projects, clean code and out-of-the-box solutions 📦✨
   </p>
+  
   <!-- Skills -->
 <h3 style="font-family:'Special Elite'; color:#5A4735;">⚔️ Skills & Abilities</h3>
 
@@ -27,10 +29,12 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GoLang-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 </div>
 
 <br>
@@ -39,9 +43,12 @@
 <h3 style="font-family:'Special Elite'; color:#5A4735;">🧭 Notable Quests</h3>
 
 <div align="left"> 
-  <ul style="font-family:'Special Elite'; text-align: left; display: flex;">
-    <li>📞 <strong style="color:#8B6F47;">GrandCallPro</strong> - Phone call management system built with the Maneki Neeko team (https://github.com/maneki-neeko)</li>
-    <li>⏳ <strong style="color:#8B6F47;">Pomodoro App (temp name)</strong> - Customizable time management using the Pomodoro technique</li>
+  <ul style="font-family:'Special Elite'; text-align: left; display: flex; flex-direction: column; gap: 8px;">
+    <li>📞 <strong style="color:#8B6F47;">GrandCallPro</strong> - Call management system with frontend (<a href="https://github.com/maneki-neeko/grandcallpro">repo</a>) and backend (<a href="https://github.com/maneki-neeko/grandcallpro-api">repo</a>)</li>
+    <li>🛠️ <strong style="color:#8B6F47;">TIC</strong> - IT support ticket system for Palmital City Hall, built in <strong>GoLang</strong> (private repo)</li>
+    <li>🦁 <strong style="color:#8B6F47;">Zoo-Functions</strong> - JavaScript project exploring functional programming concepts (<a href="https://github.com/Fxdf-IV/zoo-functions">repo</a>)</li>
+    <li>🧩 <strong style="color:#8B6F47;">EoF Enigma Decoder</strong> - JS tool for decoding labyrinth puzzles (<a href="https://github.com/Fxdf-IV/EoF-Labyrinth-Decoder">repo</a>)</li>
+    <li>⏳ <strong style="color:#8B6F47;">Pomodoro App</strong> - Prototype time manager in Python (<a href="https://github.com/Fxdf-IV/Pomodore-App">repo</a>)</li>
   </ul>
 </div>
 
@@ -62,9 +69,6 @@
   <h3 style="font-family:'Special Elite'; color:#5A4735;"> 🩻 Invoque</h3>
 
   <img src="https://img.shields.io/badge/E--mail-vinicius--c--santos@outlook.com-8B6F47?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=5A4735" />
-  </pre>
-</a>
-  </a>
 
   <a href="https://www.linkedin.com/in/vinicius505/" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
