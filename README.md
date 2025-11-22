@@ -11,7 +11,7 @@
   
   <!-- Classe/nível -->
   <img src="https://img.shields.io/badge/Class-Software%20Engineering%20Apprentice-F1E0AC?style=flat-square&logoColor=black&color=8B6F47&labelColor=5A4735" />
-  <img src="https://img.shields.io/badge/Level-3%20%7C%20XP%20%F0%9F%92%AA%20Gaining-F1E0AC?style=flat-square&logoColor=black&color=8B6F47&labelColor=5A4735" />
+  <img src="https://img.shields.io/badge/Level-5%20%7C%20XP%20%F0%9F%92%AA%20Gaining-F1E0AC?style=flat-square&logoColor=black&color=8B6F47&labelColor=5A4735" />
   
   <!-- Texto de introdução -->
   <p style="font-family:'Special Elite', cursive; font-size: 16px; color: #3D2B1F;">
