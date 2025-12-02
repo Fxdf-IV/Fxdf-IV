@@ -43,6 +43,7 @@
 
 <div align="left"> 
   <ul style="font-family:'Special Elite'; text-align: left; display: flex; flex-direction: column; gap: 8px;">
+    <li>🥋 <strong style="color:#8B6F47;">Dojo Dash Portal</strong> — Full Stack white-label management system for dojos and gyms, including Public Site + Admin Dashboard + Mock Mode for testing (<a href="https://github.com/maneki-neeko/dojo-dash-portal">repo</a>)</li>
     <li>📞 <strong style="color:#8B6F47;">GrandCallPro</strong> - Call management system with frontend (<a href="https://github.com/maneki-neeko/grandcallpro">repo</a>) and backend (<a href="https://github.com/maneki-neeko/grandcallpro-api">repo</a>)</li>
     <li>🛠️ <strong style="color:#8B6F47;">TIC</strong> - IT support ticket system for Palmital City Hall, built in <strong>GoLang</strong> (private repo)</li>
     <li>🦁 <strong style="color:#8B6F47;">Zoo-Functions</strong> - JavaScript project exploring functional programming concepts (<a href="https://github.com/Fxdf-IV/zoo-functions">repo</a>)</li>
