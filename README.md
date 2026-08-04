@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 </div>
 
 <br>
@@ -44,7 +43,7 @@
 <div align="left"> 
   <ul style="font-family:'Special Elite'; text-align: left; display: flex; flex-direction: column; gap: 8px;">
     <li>🥋 <strong style="color:#8B6F47;">Dojo Dash Portal</strong> — Full Stack white-label management system for dojos and gyms, including Public Site + Admin Dashboard + Mock Mode for testing (<a href="https://github.com/maneki-neeko/dojo-dash-portal">repo</a>)</li>
-    <li>⏳ <strong style="color:#8B6F47;">Pomodoro App</strong> - Prototype time manager in Python (<a href="https://github.com/Fxdf-IV/Pomodore-App">repo</a>)</li>
+    <li>⏳ <strong style="color:#8B6F47;">Focus Pomodoro</strong> - Aplicativo de ciclos de foco e descanso para Windows com bloqueio opcional de sites e programas. (<a href="https://github.com/Fxdf-IV/Pomodore-App">repo</a>)</li>
     <li>📞 <strong style="color:#8B6F47;">GrandCallPro</strong> - Call management system with frontend (<a href="https://github.com/maneki-neeko/grandcallpro">repo</a>) and backend (<a href="https://github.com/maneki-neeko/grandcallpro-api">repo</a>)</li>
     <li>🛠️ <strong style="color:#8B6F47;">TIC</strong> - IT support ticket system for Palmital City Hall, built in <strong>GoLang</strong> (private repo)</li>
     <li>🦁 <strong style="color:#8B6F47;">Zoo-Functions</strong> - JavaScript project exploring functional programming concepts (<a href="https://github.com/Fxdf-IV/zoo-functions">repo</a>)</li>
