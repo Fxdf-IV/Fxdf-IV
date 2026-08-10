@@ -46,8 +46,6 @@
     <li>⏳ <strong style="color:#8B6F47;">Focato-App</strong> - A app for focus and break cycles featuring optional website and app blocking. (<a href="https://github.com/Fxdf-IV/Pomodore-App">repo</a>)</li>
     <li>📞 <strong style="color:#8B6F47;">GrandCallPro</strong> - Call management system with frontend (<a href="https://github.com/maneki-neeko/grandcallpro">repo</a>) and backend (<a href="https://github.com/maneki-neeko/grandcallpro-api">repo</a>)</li>
     <li>🛠️ <strong style="color:#8B6F47;">TIC</strong> - IT support ticket system for Palmital City Hall, built in <strong>GoLang</strong> (private repo)</li>
-    <li>🦁 <strong style="color:#8B6F47;">Zoo-Functions</strong> - JavaScript project exploring functional programming concepts (<a href="https://github.com/Fxdf-IV/zoo-functions">repo</a>)</li>
-    <li>🧩 <strong style="color:#8B6F47;">EoF Enigma Decoder</strong> - JS tool for decoding labyrinth puzzles (<a href="https://github.com/Fxdf-IV/EoF-Labyrinth-Decoder">repo</a>)</li>
 
 </div>
 
