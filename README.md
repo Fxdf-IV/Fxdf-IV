@@ -44,7 +44,7 @@
   <ul style="font-family:'Special Elite'; text-align: left; display: flex; flex-direction: column; gap: 8px;">
     <li>🥋 <strong style="color:#8B6F47;">Dojo Dash Portal</strong> — Full Stack white-label management system for dojos and gyms, including Public Site + Admin Dashboard + Mock Mode for testing</li>
     <li>⏳ <strong style="color:#8B6F47;">Focato-App</strong> - A app for focus and break cycles featuring optional website and app blocking.</li>
-    <li>📞 <strong style="color:#8B6F47;">GrandCallPro</strong> - Call management system with frontend (<a href="https://github.com/maneki-neeko/grandcallpro">repo</a>) and backend </li>
+    <li>📞 <strong style="color:#8B6F47;">GrandCallPro</strong> - Call management system with frontend and backend </li>
     <li>🛠️ <strong style="color:#8B6F47;">TIC</strong> - IT support ticket system for Palmital City Hall, built in <strong>GoLang</strong></li>
 
 </div>
